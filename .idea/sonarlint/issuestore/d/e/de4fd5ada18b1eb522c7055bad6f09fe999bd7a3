@@ -1,0 +1,7 @@
+
+}
+java:S1488l"`Immediately return this expression instead of assigning it to the temporary variable "aBoolean".(üŠÕà8æ³«®—1
+D
+java:S1125$"'Remove the unnecessary boolean literal.(üÂ°ô8À´«®—1
+o
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(…öíð8Â´«®—1

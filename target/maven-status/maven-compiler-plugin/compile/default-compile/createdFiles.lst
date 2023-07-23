@@ -1,0 +1,11 @@
+com\desaextremo\retodos\controller\GadgetController.class
+com\desaextremo\retodos\repository\GadgetRepository.class
+com\desaextremo\retodos\service\GadgetService.class
+com\desaextremo\retodos\controller\UserController.class
+com\desaextremo\retodos\repository\crud\GadgetCrudRepository.class
+com\desaextremo\retodos\service\UserService.class
+com\desaextremo\retodos\model\Gadget.class
+com\desaextremo\retodos\repository\UserRepository.class
+com\desaextremo\retodos\RetodosApplication.class
+com\desaextremo\retodos\model\User.class
+com\desaextremo\retodos\repository\crud\UserCrudRepository.class
